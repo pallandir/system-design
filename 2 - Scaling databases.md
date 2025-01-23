@@ -7,3 +7,6 @@ In this section, we’ll focus on techniques to scale databases effectively and 
 
 ## Sharding databases
 
+**Sharding** a database is the process of dividing a large table into smaller, more manageable pieces called **partitions** or **shards**. These shards can either retain the original schema and simply be divided into smaller subsets of data or adopt a different schema to split the original table into distinct sub-datasets. This technique is often used to improve performance and scalability by distributing the workload across multiple database instances.
+
+![sharding databases](./resources/sharding_databases.png)
