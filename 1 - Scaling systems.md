@@ -19,4 +19,4 @@ This process of adding servers and/or databases in parallel is called **horizont
 
 As illustrated below, **vertical scaling** involves enhancing the capabilities of an existing system by adding more resources, such as upgrading the hardware (e.g., CPU, RAM, or storage) of a single server or database instance. In contrast, **horizontal scaling** expands the system by adding more servers or database instances to the infrastructure, effectively distributing the workload across multiple systems. This distinction captures the core difference between the two approaches to scaling.
 
-![scaling](./resources/scaling.png|304)
+![scaling](./resources/scaling.png)
